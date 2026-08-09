@@ -85,18 +85,17 @@
 
 ---
 
-### 📈 Operations & Intel
+### 📈 Service Record
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0pperfi3ld&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0pperfi3ld&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00ff41/c0pperfi3ld" alt="c0pperfi3ld's Github Contributions Grid" width="100%" />
-</div>
+```text
+[+] IDENTIFIER       : c0pperfi3ld
+[+] CLEARANCE LEVEL  : Tier-3 Offensive Operations
+[+] SPECIALTY        : Web Application Penetration Testing & OSINT
+[+] PRIMARY OS       : Kali Linux / Parrot OS
+[+] CURRENT STATUS   : Active Threat Hunting & Vulnerability Research
+[+] UPTIME           : 99.9%
+[+] DIRECTIVE        : Identify, Exploit, Report, Secure.
+```
 
 ---
 

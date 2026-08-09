@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff41&height=200&section=header&text=c0pperfi3ld&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Offensive%20Security%20%E2%80%A2%20Red%20Team%20Operations%20%E2%80%A2%20Penetration%20Testing&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff41&height=200&section=header&text=c0pperfi3ld&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Web%20App%20%26%20API%20Penetration%20Tester%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20Red%20Teaming&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
 
 <br>
@@ -15,10 +15,9 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│   c0pperfi3ld | Cybersecurity Professional (3+ Years Experience)          │
-│   Specialized in penetration testing, vulnerability assessment,          │
-│   and red team operations using industry-standard tools                  │
-│   and ethical hacking methodologies.                                     │
+│   c0pperfi3ld | Web Application & API Security Specialist                 │
+│   3+ years of experience in offensive security, penetration testing,     │
+│   API vulnerability assessment, and OWASP Top 10 exploitation.           │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -54,48 +53,50 @@
 
 ---
 
-### ⚙️ Arsenal
+### ⚙️ Specialized Security Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,postman&theme=dark" />
 </p>
 
 <table align="center">
   <tr>
-    <td><b>🔍 Recon</b></td>
-    <td>Nmap • Shodan • Amass • Subfinder • OSINT Framework</td>
+    <td><b>🌐 Web App Pen Testing</b></td>
+    <td>Burp Suite Pro • OWASP ZAP • SQLmap • Nikto • ffuf • Gobuster • Wfuzz • Commix • XSSer • Nuclei</td>
   </tr>
   <tr>
-    <td><b>🌐 Web</b></td>
-    <td>Burp Suite • SQLMap • Nikto • OWASP ZAP • Dirb</td>
+    <td><b>🔌 API Security & Testing</b></td>
+    <td>Postman • Insomnia • Swagger/OpenAPI • Kiterunner • JWT_Tool • Astra • RESTler • GraphQL Voyager • Mitmproxy</td>
   </tr>
   <tr>
-    <td><b>💥 Exploitation</b></td>
-    <td>Metasploit • Cobalt Strike • CrackMapExec • Impacket</td>
+    <td><b>🔍 Recon & Asset Discovery</b></td>
+    <td>Nmap • Shodan • Amass • Subfinder • Assetfinder • httpx • Naabu • Censys • Waybackurls • Gau</td>
   </tr>
   <tr>
-    <td><b>🔑 Post-Exploitation</b></td>
-    <td>BloodHound • Mimikatz • Rubeus • PowerSploit</td>
+    <td><b>🎯 Fuzzing & Scanning</b></td>
+    <td>Nuclei • ffuf • Feroxbuster • ParamSpider • Arjun • Wfuzz • Dirb</td>
   </tr>
   <tr>
-    <td><b>📡 Network</b></td>
-    <td>Wireshark • Responder • Bettercap • tcpdump</td>
+    <td><b>💥 Exploitation & Red Team</b></td>
+    <td>Metasploit • Cobalt Strike • Impacket • BloodHound • Mimikatz • CrackMapExec • PowerSploit</td>
+  </tr>
+  <tr>
+    <td><b>📡 Traffic & Protocol Analysis</b></td>
+    <td>Wireshark • Responder • Bettercap • tcpdump • Burp Proxy</td>
   </tr>
 </table>
 
 ---
 
-### 📈 Service Record
+### 🐍 Contribution Activity (Snake Matrix)
 
-```text
-[+] IDENTIFIER       : c0pperfi3ld
-[+] CLEARANCE LEVEL  : Tier-3 Offensive Operations
-[+] SPECIALTY        : Web Application Penetration Testing & OSINT
-[+] PRIMARY OS       : Kali Linux / Parrot OS
-[+] CURRENT STATUS   : Active Threat Hunting & Vulnerability Research
-[+] UPTIME           : 99.9%
-[+] DIRECTIVE        : Identify, Exploit, Report, Secure.
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0pperfi3ld/c0pperfi3ld/output/github-snake-matrix.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c0pperfi3ld/c0pperfi3ld/output/github-contribution-grid-snake.svg">
+    <img alt="c0pperfi3ld GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/c0pperfi3ld/c0pperfi3ld/output/github-snake-matrix.svg" width="100%">
+  </picture>
+</div>
 
 ---
 

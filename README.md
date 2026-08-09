@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff41&height=200&section=header&text=c0pperfi3ld&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=Web%20App%20%26%20API%20Penetration%20Tester%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20Red%20Teaming&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=c0pperfi3ld;Offensive+Security+Specialist;Web+App+%26+API+Penetration+Tester;Red+Team+Operations" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -12,7 +14,7 @@
 
 <br>
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
 │   c0pperfi3ld | Web Application & API Security Specialist                 │
@@ -55,9 +57,11 @@
 
 ### ⚙️ Specialized Security Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,postman&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,python,docker,git,github,postman,windows,ubuntu,cloudflare,html,css,js,php,mysql,mongodb,nodejs&theme=dark&perline=10" />
+</div>
+
+<br>
 
 <table align="center">
   <tr>

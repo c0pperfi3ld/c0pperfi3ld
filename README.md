@@ -62,27 +62,19 @@
 <table align="center">
   <tr>
     <td><b>🌐 Web App Pen Testing</b></td>
-    <td>Burp Suite Pro • OWASP ZAP • SQLmap • Nikto • ffuf • Gobuster • Wfuzz • Commix • XSSer • Nuclei</td>
+    <td>Burp Suite Pro • OWASP ZAP • SQLmap • Nuclei</td>
   </tr>
   <tr>
-    <td><b>🔌 API Security & Testing</b></td>
-    <td>Postman • Insomnia • Swagger/OpenAPI • Kiterunner • JWT_Tool • Astra • RESTler • GraphQL Voyager • Mitmproxy</td>
+    <td><b>🔌 API Security Testing</b></td>
+    <td>Postman • Kiterunner • JWT_Tool • RESTler</td>
   </tr>
   <tr>
-    <td><b>🔍 Recon & Asset Discovery</b></td>
-    <td>Nmap • Shodan • Amass • Subfinder • Assetfinder • httpx • Naabu • Censys • Waybackurls • Gau</td>
+    <td><b>🔍 Recon & Fuzzing</b></td>
+    <td>Nmap • Shodan • Amass • ffuf • httpx</td>
   </tr>
   <tr>
-    <td><b>🎯 Fuzzing & Scanning</b></td>
-    <td>Nuclei • ffuf • Feroxbuster • ParamSpider • Arjun • Wfuzz • Dirb</td>
-  </tr>
-  <tr>
-    <td><b>💥 Exploitation & Red Team</b></td>
-    <td>Metasploit • Cobalt Strike • Impacket • BloodHound • Mimikatz • CrackMapExec • PowerSploit</td>
-  </tr>
-  <tr>
-    <td><b>📡 Traffic & Protocol Analysis</b></td>
-    <td>Wireshark • Responder • Bettercap • tcpdump • Burp Proxy</td>
+    <td><b>💥 Exploitation & Post-Exploit</b></td>
+    <td>Metasploit • Impacket • BloodHound • CrackMapExec</td>
   </tr>
 </table>
 

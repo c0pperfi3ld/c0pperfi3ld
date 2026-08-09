@@ -29,17 +29,25 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center">
+      <img src="https://img.shields.io/badge/CAPT-Associate_Penetration_Tester-0d1117?style=for-the-badge&logo=openbugbounty&logoColor=00ff41" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CASA-API_Security_Analyst-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWCP-Arena_Web_Certified_Pro-0d1117?style=for-the-badge&logo=webauthn&logoColor=00bfff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/APIsec-Certified_Practitioner-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Certified-Ethical_Hacking-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CAPT-Associate_Pen_Tester-0d1117?style=for-the-badge&logo=openbugbounty&logoColor=00ff41" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CASA-API_Security_Analyst-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/CTF-Player_&_Practitioner-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
     </td>
   </tr>
 </table>

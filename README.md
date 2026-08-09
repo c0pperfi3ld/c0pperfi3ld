@@ -15,7 +15,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│   Cybersecurity professional with 3+ years in offensive security.        │
+│   c0pperfi3ld | Cybersecurity Professional (3+ Years Experience)          │
 │   Specialized in penetration testing, vulnerability assessment,          │
 │   and red team operations using industry-standard tools                  │
 │   and ethical hacking methodologies.                                     │
@@ -85,17 +85,17 @@
 
 ---
 
-### 📈 Metrics
+### 📈 Operations & Intel
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c0pperfi3ld&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0pperfi3ld&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&currStreakLabel=00FF41&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0pperfi3ld&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0pperfi3ld&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&area_color=00ff41&hide_border=true" width="98%" />
+  <img src="https://ghchart.rshah.org/00ff41/c0pperfi3ld" alt="c0pperfi3ld's Github Contributions Grid" width="100%" />
 </div>
 
 ---
